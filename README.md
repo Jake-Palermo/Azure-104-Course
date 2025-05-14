@@ -1,6 +1,6 @@
 # Azure-104-Course
 
-This repository contains code projects and related materials I worked on while completing the Microsoft Learn AZ-104: Microsoft Azure Administrator course. It includes scripts, configuration files, and images that document my progress and demonstrate key concepts covered throughout the course.
+This repository contains a small code project and related materials I worked on while completing the Microsoft Learn AZ-104: Microsoft Azure Administrator course, specifically the "deploying ARM templates using a .JSON file" module. It includes the template file, and screenshots from the terminal and azure portal to show what the output should look like when deployed correctly.
 
 To deploy the ARM template, activate a Microsoft Learn Sandbox, then use a cmd prompt or powershell and follow these steps:
 
