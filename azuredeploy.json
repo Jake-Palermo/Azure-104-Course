@@ -4,6 +4,19 @@
     "parameters": {},
     "functions": [],
     "variables": {},
-    "resources": [],
-    "outputs": {}
+    "resources": [{     
+        "name": "jtplearnexcercise1237",
+        "type": "Microsoft.Storage/storageAccounts",
+        "apiVersion": "2023-05-01",
+        "tags": {
+            "displayName": "jtplearnexcercise1237"
+        },
+        "location": "[resourceGroup().location]",
+        "kind": "StorageV2",
+        "sku": {
+            "name": "Standard_LRS",
+            "tier": "Standard"
+        }
+    }],
+    "outputs": {}           
 }
