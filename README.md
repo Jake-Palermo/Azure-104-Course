@@ -11,6 +11,7 @@ To deploy the ARM template, activate a Microsoft Learn Sandbox, then use a cmd p
 ![image](https://github.com/user-attachments/assets/fd0f55ca-e807-4e0e-8303-58d01fb0fb31)
 
 ![image](https://github.com/user-attachments/assets/d5cecbdf-07b0-4bc2-b49b-85dfe6e02146)
+
 Make sure to replace {your-unique-name} with your actual unique azure id (only using lowercase letters and numbers).
 
 You may have to replace "azuredeploy.json" with the file path if the azuredeploy file is not in the same directory.
